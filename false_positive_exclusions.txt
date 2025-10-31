@@ -1,16 +1,18 @@
 APClips
-Academia.edu
+BoardGameGeek
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+threads
 xHamster
