@@ -1,14 +1,15 @@
 APClips
-Coders Rank
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
