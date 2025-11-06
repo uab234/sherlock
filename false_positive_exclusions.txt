@@ -1,7 +1,6 @@
 APClips
-DeviantArt
-Freelancer
-GNOME VCS
+Coders Rank
+Eintracht Frankfurt Forum
 Giphy
 LushStories
 PocketStars
@@ -9,10 +8,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-nnRU
 opennet
+phpRU
 svidbook
-xHamster
