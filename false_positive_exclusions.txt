@@ -1,21 +1,17 @@
 APClips
 Archive.org
-CGTrader
-Coders Rank
-DeviantArt
-Eintracht Frankfurt Forum
+Flipboard
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slashdot
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
-phpRU
 svidbook
-xHamster
