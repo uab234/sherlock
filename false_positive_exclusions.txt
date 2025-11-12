@@ -1,7 +1,7 @@
 APClips
 Archive.org
+CGTrader
 Coders Rank
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 Itch.io
@@ -13,6 +13,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
 xHamster
