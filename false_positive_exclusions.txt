@@ -3,18 +3,17 @@ Archive.org
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Trovo
-TryHackMe
 Weblate
 YandexMusic
+eintracht
 opennet
-phpRU
 svidbook
 xHamster
