@@ -3,6 +3,7 @@ Archive.org
 Coders Rank
 GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -11,7 +12,4 @@ Splice
 Spotify
 Weblate
 YandexMusic
-forum_guns
-opennet
-phpRU
 svidbook
