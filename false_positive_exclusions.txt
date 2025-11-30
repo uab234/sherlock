@@ -1,6 +1,6 @@
 APClips
+Academia.edu
 Archive.org
-Blogger
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -15,7 +15,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-nnRU
 opennet
 svidbook
 xHamster
