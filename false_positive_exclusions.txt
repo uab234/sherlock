@@ -1,10 +1,9 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 Coders Rank
 DeviantArt
-GNOME VCS
+Fandom
 GeeksforGeeks
 Giphy
 Hubski
@@ -12,13 +11,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
-Smule
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-hunting
 opennet
 svidbook
