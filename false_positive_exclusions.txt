@@ -10,7 +10,6 @@ Giphy
 Hubski
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -18,5 +17,6 @@ Spotify
 Trovo
 Vero
 Weblate
+YandexMusic
 opennet
 svidbook
