@@ -1,8 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -14,7 +12,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Vero
 Weblate
 YandexMusic
