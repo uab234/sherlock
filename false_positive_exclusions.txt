@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -16,7 +15,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
