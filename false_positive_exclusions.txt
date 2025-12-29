@@ -1,5 +1,5 @@
 APClips
-Archive.org
+Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -12,9 +12,11 @@ PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
