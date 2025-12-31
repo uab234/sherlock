@@ -18,6 +18,9 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
