@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -22,5 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
