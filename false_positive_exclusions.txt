@@ -1,8 +1,9 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
-DeviantArt
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -13,9 +14,9 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
