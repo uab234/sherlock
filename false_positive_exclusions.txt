@@ -1,13 +1,12 @@
 APClips
 Archive.org
-Audiojungle
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 PocketStars
@@ -23,5 +22,7 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
