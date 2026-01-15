@@ -1,13 +1,12 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
+GitBook
 Hubski
 LushStories
 PocketStars
@@ -15,7 +14,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
