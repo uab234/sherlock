@@ -16,9 +16,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Weblate
+YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
