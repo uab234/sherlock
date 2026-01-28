@@ -2,8 +2,8 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
-Flipboard
 GeeksforGeeks
 Giphy
 Hubski
@@ -13,6 +13,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
