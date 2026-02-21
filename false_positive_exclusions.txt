@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -9,11 +8,13 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -23,5 +24,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
