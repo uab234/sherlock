@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -9,12 +10,13 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
+Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -24,7 +26,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
