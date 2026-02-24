@@ -1,6 +1,8 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Coders Rank
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,11 +16,11 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -26,3 +28,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
