@@ -1,13 +1,13 @@
 APClips
 Archive.org
+BoardGameGeek
+CGTrader
 Codolio
-Cracked Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
