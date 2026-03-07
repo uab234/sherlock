@@ -1,15 +1,14 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
-Eintracht Frankfurt Forum
+Dribbble
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -19,16 +18,14 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
-Trovo
+Tenor
 TryHackMe
 Weblate
-eintracht
+YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
