@@ -1,14 +1,13 @@
 APClips
 Archive.org
 Codolio
-Dribbble
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
@@ -21,11 +20,11 @@ Smule
 Splice
 Spotify
 Strava
-Tenor
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
