@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 DeviantArt
 GNOME VCS
@@ -27,8 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
