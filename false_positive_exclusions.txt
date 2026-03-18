@@ -1,15 +1,17 @@
 APClips
 Archive.org
+CGTrader
 Codolio
+Cracked Forum
 DeviantArt
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
