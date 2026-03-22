@@ -1,15 +1,15 @@
 APClips
 Archive.org
 Codolio
-Framapiaf
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
