@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -25,6 +26,8 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
