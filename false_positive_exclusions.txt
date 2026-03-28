@@ -1,13 +1,13 @@
 APClips
 Archive.org
-CGTrader
 Codolio
 DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
 Patched
 PocketStars
@@ -25,9 +25,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
