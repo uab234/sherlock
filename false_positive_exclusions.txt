@@ -6,7 +6,6 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -29,7 +28,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
-xHamster
