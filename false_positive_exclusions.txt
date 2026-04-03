@@ -8,11 +8,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +28,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
