@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -12,8 +13,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -31,4 +30,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
