@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -23,10 +22,12 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
