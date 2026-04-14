@@ -1,7 +1,7 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 Cults3D
@@ -9,9 +9,11 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -23,9 +25,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Tenor
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
