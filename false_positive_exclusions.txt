@@ -5,12 +5,11 @@ Archive.org
 Bandcamp
 Codolio
 Discord.bio
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
@@ -23,6 +22,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -31,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
