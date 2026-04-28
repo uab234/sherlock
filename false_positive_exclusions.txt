@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +13,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
 Patched
 Rarible
 Realmeye
@@ -28,7 +26,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Weebly
 YandexMusic
 dailykos
 interpals
