@@ -7,11 +7,13 @@ ArtStation
 Bandcamp
 Codolio
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -35,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
