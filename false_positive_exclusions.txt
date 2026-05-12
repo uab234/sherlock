@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -12,10 +11,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
