@@ -6,11 +6,11 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
 LushStories
@@ -21,12 +21,10 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -39,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
