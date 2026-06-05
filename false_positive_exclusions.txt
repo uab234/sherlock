@@ -7,14 +7,13 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
 Patched
 Pornhub
 Rarible
@@ -23,11 +22,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
