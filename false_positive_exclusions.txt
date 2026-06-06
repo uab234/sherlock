@@ -14,6 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
+LushStories
 Patched
 Pornhub
 Rarible
@@ -36,6 +38,5 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
 xHamster
