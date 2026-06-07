@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Codolio
 Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -27,7 +28,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
+Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,5 +40,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
 xHamster
