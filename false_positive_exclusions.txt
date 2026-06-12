@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
 Cults3D
 Discord.bio
@@ -42,4 +41,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
