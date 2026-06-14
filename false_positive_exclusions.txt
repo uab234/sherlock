@@ -1,8 +1,8 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -16,19 +16,24 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+LushStories
+OurDJTalk
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -39,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
