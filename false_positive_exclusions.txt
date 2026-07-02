@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,7 +7,9 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,7 +18,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -27,16 +32,18 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
