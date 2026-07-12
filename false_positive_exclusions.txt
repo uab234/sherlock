@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -16,8 +17,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Odysee
+OurDJTalk
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -41,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
