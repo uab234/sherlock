@@ -12,16 +12,15 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
+GitHub
 Hashnode
-Houzz
 Hubski
 LessWrong
+LinkedIn
 LushStories
 Odysee
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
