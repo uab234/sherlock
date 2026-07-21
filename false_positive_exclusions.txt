@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
@@ -17,6 +16,7 @@ Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -28,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
