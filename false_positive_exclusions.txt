@@ -19,7 +19,6 @@ LinkedIn
 LushStories
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -30,9 +29,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -43,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
