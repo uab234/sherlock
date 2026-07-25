@@ -9,6 +9,7 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -30,7 +31,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
