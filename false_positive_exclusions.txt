@@ -25,10 +25,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
