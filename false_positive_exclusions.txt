@@ -5,15 +5,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 Instapaper
@@ -32,11 +33,11 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
