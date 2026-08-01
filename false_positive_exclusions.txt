@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,9 +16,9 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 LushStories
@@ -48,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
