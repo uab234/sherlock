@@ -7,6 +7,8 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,10 +19,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -30,12 +32,13 @@ Replit.com
 ReverbNation
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
