@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -21,7 +21,6 @@ Instapaper
 LinkedIn
 LushStories
 Odysee
-PCGamer
 Patched
 Pornhub
 Rarible
@@ -34,6 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -41,10 +41,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
