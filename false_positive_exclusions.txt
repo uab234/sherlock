@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,12 +7,15 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -21,8 +23,8 @@ Instapaper
 LinkedIn
 LushStories
 Odysee
+PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,15 +35,12 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-dcinside
 igromania
 interpals
 mercadolivre
