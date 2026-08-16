@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,9 +21,9 @@ Instapaper
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,6 +34,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
