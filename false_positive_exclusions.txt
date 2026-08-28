@@ -9,7 +9,6 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
-Cracked Forum
 Cults3D
 DeviantArt
 Discord.bio
@@ -22,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
 Odysee
 PCGamer
 Pornhub
@@ -36,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
