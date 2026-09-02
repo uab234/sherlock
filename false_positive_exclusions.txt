@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -20,6 +21,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
+LushStories
+ObservableHQ
 Odysee
 PCGamer
 Rarible
@@ -32,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 Trovo
 TryHackMe
