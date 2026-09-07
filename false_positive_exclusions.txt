@@ -19,12 +19,14 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -51,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
