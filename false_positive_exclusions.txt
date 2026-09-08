@@ -19,14 +19,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 LushStories
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Pychess
 Rarible
 Realmeye
 Reddit
@@ -36,7 +34,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
