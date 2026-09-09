@@ -10,6 +10,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -29,11 +30,11 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
