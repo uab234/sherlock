@@ -1,15 +1,17 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+ColourLovers
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,6 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -33,6 +36,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -49,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
