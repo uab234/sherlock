@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,7 +22,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -32,6 +30,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
