@@ -10,6 +10,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -39,6 +40,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Weebly
 YandexMusic
 authorSTREAM
 dailykos
@@ -51,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
