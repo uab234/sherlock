@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,7 +21,7 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
+Lobsters
 ObservableHQ
 Odysee
 PCGamer
@@ -51,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
