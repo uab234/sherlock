@@ -13,6 +13,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -38,6 +39,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +55,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
