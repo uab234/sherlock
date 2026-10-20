@@ -1,12 +1,10 @@
 7Cups
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -22,13 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Rarible
 Realmeye
 Reddit
@@ -38,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
