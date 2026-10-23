@@ -13,7 +13,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -26,8 +25,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -55,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
