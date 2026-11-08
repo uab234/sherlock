@@ -4,9 +4,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -22,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 ObservableHQ
 Odysee
@@ -35,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-TnAFlix
 Trakt
 TryHackMe
 Velomania
