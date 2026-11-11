@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -29,8 +30,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -47,7 +46,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
