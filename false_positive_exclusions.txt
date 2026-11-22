@@ -3,12 +3,12 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
 DeviantArt
 Discord.bio
-Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -30,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
