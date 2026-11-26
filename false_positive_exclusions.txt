@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BoardGameGeek
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -17,7 +16,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +32,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
@@ -42,7 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
